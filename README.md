@@ -1,4 +1,7 @@
 <h1>Pagina web Dinamica</h1>
+<center>
+<img src="https://i.ibb.co/tmGwy2f/Captura-de-pantalla-24.png" alt="Captura-de-pantalla-24" border="0">
+</center>
 <p>Esta pagina web esta hecha con el framework laravel donde usamos librerias jquery para efectos y bootstrap para los estilos</p>
 <p>uso libre con la codicion que mejoren algo al codigo para si alimentar mas su conocimiento</p>
 
