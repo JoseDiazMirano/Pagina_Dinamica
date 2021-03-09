@@ -10,6 +10,6 @@
 <h3>video explicando el sistemas</h3>
 <h4>https://youtu.be/VxcbYl3z9AA</h4>
 
-<h2>Follow me/h2>
+<h2>Follow me</h2>
     <h3>https://www.linkedin.com/in/jose-diaz-mira/</h3>
     
